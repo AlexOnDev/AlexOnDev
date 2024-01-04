@@ -1,4 +1,4 @@
-### Hi! My name is Alejandro de Pablo 'AKA' AlexOnDev, junior developer. 👋
+### Hi! My name is Alejandro de Pablo 'AKA' AlexOnDev, junior developer and a tech lover. 👋
 
 I love learning new things and creating projects that people can enjoy.  
 
