@@ -3,5 +3,5 @@
 I love learning new things and creating projects that people can enjoy.  
 
 🔭 I’m currently working on myself.  
-🌱 I’m currently learning TypeScript, Angular and Spring. 
+🌱 I’m currently learning TypeScript, Angular and Spring.   
 💬 Ask me about Java, HTML, CSS, JS, SQL, PHP ...  
